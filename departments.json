@@ -1,0 +1,11 @@
+[
+  { "value": "Item 1",  "title": "20000 - Architecture" },
+  { "value": "Item 2",  "title": "20100 - Art and Archaeology" },
+  { "value": "Item 3",  "title": "20200 - Classics" },
+  { "value": "Item 4",  "title": "20300 - Comparative Literature" },
+  { "value": "Item 5",  "title": "20400 - East Asian Studies" },
+  { "value": "Item 6",  "title": "20500 - Lewis Center for the Arts" },
+  { "value": "Item 8",  "title": "20503 - Dance, LCA" },
+  { "value": "Item 9",  "title": "20504 - Creative Writing, LCA" },
+  { "value": "Item 10", "title": "20505 - Visual Arts, LCA" }
+]
