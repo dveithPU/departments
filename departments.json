@@ -1,15 +1,306 @@
 [
-  { "value": "Item 1",  "title": "20000 - Architecture" },
-  { "value": "Item 2",  "title": "20100 - Art and Archaeology" },
-  { "value": "Item 3",  "title": "20200 - Classics" },
-  { "value": "Item 4",  "title": "20300 - Comparative Literature" },
-  { "value": "Item 5",  "title": "20400 - East Asian Studies" },
-  { "value": "Item 6",  "title": "20500 - Lewis Center for the Arts" },
-  { "value": "Item 8",  "title": "20503 - Dance, LCA" },
-  { "value": "Item 9",  "title": "20504 - Creative Writing, LCA" },
-  { "value": "Item 10", "title": "20505 - Visual Arts, LCA" },
-  { "value": "Item 11", "title": "30000 - test 1" },
-  { "value": "Item 12", "title": "30505 - test 2" }
-
-
+  {
+    "value": "Item 1",
+    "title": "20000 - Architecture"
+  },
+  {
+    "value": "Item 2",
+    "title": "20100 - Art and Archaeology"
+  },
+  {
+    "value": "Item 3",
+    "title": "20200 - Classics"
+  },
+  {
+    "value": "Item 4",
+    "title": "20300 - Comparative Literature"
+  },
+  {
+    "value": "Item 5",
+    "title": "20400 - East Asian Studies"
+  },
+  {
+    "value": "Item 6",
+    "title": "20500 - Lewis Center for the Arts"
+  },
+  {
+    "value": "Item 8",
+    "title": "20503 - Dance, LCA"
+  },
+  {
+    "value": "Item 9",
+    "title": "20504 - Creative Writing, LCA"
+  },
+  {
+    "value": "Item 10",
+    "title": "20505 - Visual Arts, LCA"
+  },
+  {
+    "value": "Item 11",
+    "title": "20506 - Atelier, LCA"
+  },
+  {
+    "value": "Item 12",
+    "title": "20507 - Theater, LCA"
+  },
+  {
+    "value": "Item 13",
+    "title": "20600 - English"
+  },
+  {
+    "value": "Item 14",
+    "title": "20700 - French and Italian"
+  },
+  {
+    "value": "Item 15",
+    "title": "20800 - German"
+  },
+  {
+    "value": "Item 16",
+    "title": "21000 - Council of the Humanities"
+  },
+  {
+    "value": "Item 17",
+    "title": "21002 - Effron Center for the Study of America"
+  },
+  {
+    "value": "Item 18",
+    "title": "21100 - Music"
+  },
+  {
+    "value": "Item 19",
+    "title": "21200 - Near Eastern Studies"
+  },
+  {
+    "value": "Item 20",
+    "title": "21300 - Philosophy"
+  },
+  {
+    "value": "Item 21",
+    "title": "21400 - Religion"
+  },
+  {
+    "value": "Item 22",
+    "title": "21500 - Slavic Languages and Literatures"
+  },
+  {
+    "value": "Item 23",
+    "title": "21600 - Spanish and Portuguese"
+  },
+  {
+    "value": "Item 24",
+    "title": "21700 - Judaic Studies"
+  },
+  {
+    "value": "Item 25",
+    "title": "22000 - Anthropology"
+  },
+  {
+    "value": "Item 26",
+    "title": "22100 - African American Studies"
+  },
+  {
+    "value": "Item 27",
+    "title": "22200 - Economics"
+  },
+  {
+    "value": "Item 28",
+    "title": "22300 - History"
+  },
+  {
+    "value": "Item 29",
+    "title": "22500 - Politics"
+  },
+  {
+    "value": "Item 30",
+    "title": "22600 - Sociology"
+  },
+  {
+    "value": "Item 31",
+    "title": "22700 - Gender and Sexuality Studies"
+  },
+  {
+    "value": "Item 32",
+    "title": "23000 - Applied and Computational Math"
+  },
+  {
+    "value": "Item 33",
+    "title": "23100 - Astrophysical Sciences"
+  },
+  {
+    "value": "Item 34",
+    "title": "23300 - Molecular Biology"
+  },
+  {
+    "value": "Item 35",
+    "title": "23400 - Ecology"
+  },
+  {
+    "value": "Item 36",
+    "title": "23500 - Chemistry"
+  },
+  {
+    "value": "Item 37",
+    "title": "23600 - Geosciences"
+  },
+  {
+    "value": "Item 38",
+    "title": "23700 - Mathematics"
+  },
+  {
+    "value": "Item 39",
+    "title": "23800 - Physics"
+  },
+  {
+    "value": "Item 40",
+    "title": "23900 - Psychology"
+  },
+  {
+    "value": "Item 41",
+    "title": "24000 - High Meadows Environmental Institute"
+  },
+  {
+    "value": "Item 42",
+    "title": "24200 - Lewis Sigler Institute for Integrative Genomics"
+  },
+  {
+    "value": "Item 43",
+    "title": "24300 - Princeton Institute for Computational Science & Engineering"
+  },
+  {
+    "value": "Item 44",
+    "title": "24400 - Princeton Neuroscience Institute"
+  },
+  {
+    "value": "Item 45",
+    "title": "24500 - Atmospheric and Oceanic Sciences"
+  },
+  {
+    "value": "Item 46",
+    "title": "24700 - Princeton Quantum Initiative"
+  },
+  {
+    "value": "Item 47",
+    "title": "25100 - Mechanical and Aerospace Engineering"
+  },
+  {
+    "value": "Item 48",
+    "title": "25200 - Civil and Environmental Engineering"
+  },
+  {
+    "value": "Item 49",
+    "title": "25300 - Chemical and Biological Engineering"
+  },
+  {
+    "value": "Item 50",
+    "title": "25400 - Electrical and Computer Engineering"
+  },
+  {
+    "value": "Item 51",
+    "title": "25500 - Computer Science"
+  },
+  {
+    "value": "Item 52",
+    "title": "25600 - Operations Research and Financial Engineering"
+  },
+  {
+    "value": "Item 53",
+    "title": "25700 - Andlinger Center for Energy and Environment"
+  },
+  {
+    "value": "Item 54",
+    "title": "25800 - Princeton Materials Institute"
+  },
+  {
+    "value": "Item 55",
+    "title": "25900 - Bioengineering"
+  },
+  {
+    "value": "Item 56",
+    "title": "25900 - Omenn-Darling Bioengineering Institute"
+  },
+  {
+    "value": "Item 57",
+    "title": "26000 - School of Public and International Affairs"
+  },
+  {
+    "value": "Item 58",
+    "title": "26300 - Center for the Study of Culture, Society, and Religion"
+  },
+  {
+    "value": "Item 59",
+    "title": "26400 - Hellenic Studies"
+  },
+  {
+    "value": "Item 60",
+    "title": "26900 - Program in Linguistics"
+  },
+  {
+    "value": "Item 61",
+    "title": "27000 - Office of Population Research"
+  },
+  {
+    "value": "Item 62",
+    "title": "28100 - Center for Human Values"
+  },
+  {
+    "value": "Item 63",
+    "title": "27800 - Princeton Institute for International and Regional Studies"
+  },
+  {
+    "value": "Item 64",
+    "title": "28300 - Mossvar-Rahmani Center for Iran/Persian Gulf Studies"
+  },
+  {
+    "value": "Item 65",
+    "title": "28500 - Cognitive Science"
+  },
+  {
+    "value": "Item 66",
+    "title": "29000 - Princeton Center for Theoretical Science"
+  },
+  {
+    "value": "Item 67",
+    "title": "29100 - Center on Science and Technology"
+  },
+  {
+    "value": "Item 68",
+    "title": "29300 - Ludwig Princeton Branch"
+  },
+  {
+    "value": "Item 69",
+    "title": "29500 - Keller Center for Innovation in Engineering Education"
+  },
+  {
+    "value": "Item 70",
+    "title": "29600 - Center for Info Tech Policy"
+  },
+  {
+    "value": "Item 71",
+    "title": "31200 - Princeton Precision Health Initiative"
+  },
+  {
+    "value": "Item 72",
+    "title": "31300 - Princeton AI Lab"
+  },
+  {
+    "value": "Item 73",
+    "title": "41000 - Library - Main"
+  },
+  {
+    "value": "Item 74",
+    "title": "41004 - Library - Finance & Acquisition Services"
+  },
+  {
+    "value": "Item 75",
+    "title": "41006 - Deputy University Librarian"
+  },
+  {
+    "value": "Item 76",
+    "title": "41014 - Special Collections"
+  },
+  {
+    "value": "Item 79",
+    "title": "41032 - Collections and Access Services"
+  }
 ]
